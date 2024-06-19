@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552278975176",
+    "project_id": "simple-login-and-registe-4846f",
+    "storage_bucket": "simple-login-and-registe-4846f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552278975176:android:2bbe7784bee628028a3bfd",
+        "android_client_info": {
+          "package_name": "com.example.test_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoBK8pMRaUT62i-p2d33xNBvBKxDA9UNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

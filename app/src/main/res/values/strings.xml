@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test_Game</string>
+    <string name="please_enter_email">Please enter Email</string>
+    <string name="example_email_com">example@email.com</string>
+    <string name="please_enter_password">Please Enter Password</string>
+    <string name="pws">**********</string>
+    <string name="login">LOGIN</string>
+    <string name="not_register_yet_sign_up">Not Register Yet, Sign Up !</string>
+    <string name="re_enter_password">Re Enter Password</string>
+    <string name="sachith_kavishka">Sachith Kavishka</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="already_registed_log_in">Already Registed? Log In</string>
+</resources>
